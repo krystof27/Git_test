@@ -1,6 +1,7 @@
 # Otázky Beta / Beta Questions
 
 ## Jaký příkaz slouží k založení nové branche? / Which git command creates new branche?
+pro založení nevé vetve pozijeme příkaz: git branch 
 
 ## Jaký je rozdíl mezi lokálním a vzdáleným repozitářem? / What are differencies between local and remote repository?
 Lokální repozitar je ulozen na vasem pocitaci, kde provadime zmeny a spravujeme commity. 
